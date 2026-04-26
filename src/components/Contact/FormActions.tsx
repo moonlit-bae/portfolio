@@ -18,7 +18,7 @@ export default function FormActions({ clicked }: { clicked: boolean }) {
         <SocialCard path="https://www.linkedin.com">
           <LinkedinIcon className="group-hover:fill-primary-white h-5 w-5" />
         </SocialCard>
-        <SocialCard path="https://inttolong.github.io/Resume/">
+        <SocialCard path="https://drive.google.com/uc?export=download&id=1bkGTGMuugK95wQXmPQB4yz-bH2_aGC1n">
           <FacebookIcon className="group-hover:fill-primary-white h-5 w-5" />
         </SocialCard>
         <SocialCard path="https://github.com/moonlit-bae">

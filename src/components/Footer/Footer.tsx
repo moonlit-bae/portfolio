@@ -13,12 +13,12 @@ export default function Footer() {
         <span>
           Design inspired by{" "}
           <a
-            href="https://www.figma.com/@jhanvishah"
+            href="https://moonlit-bae.github.io/portfolio/"
             className="text-blue-500"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Jhanvi Shah
+            Zaid qureshi
           </a>
         </span>
       </div>

@@ -17,7 +17,7 @@ export default function Hero() {
           <h1>
             <span>Hello, I`am</span>{" "}
             <TypeAnimation
-              sequence={["Junior", 3000, "", 1000, "Zaid", 1000]}
+              sequence={["Qureshi", 3000, "", 1000, "Zaid", 1000]}
               wrapper="span"
               speed={50}
               style={{ fontWeight: 800, display: "inline-block" }}

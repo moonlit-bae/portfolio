@@ -28,7 +28,7 @@ export default function AboutMe() {
             transition={{ duration: 1, type: "spring" }}
             viewport={{ once: true }}
           >
-            I'm Zaid Qureshi, a junior Full Stack Developer from Saudi Arabia
+            I'm Zaid Qureshi, a junior Full Stack Developer from India,
             with a genuine passion for writing code that solves real problems.
             My stack spans both the front and back end — from React and
             TypeScript on the client side, to Node.js, Python, and PostgreSQL on

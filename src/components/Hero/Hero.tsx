@@ -33,7 +33,7 @@ export default function Hero() {
           </p>
           <p>
             <span>Based In </span>
-            <span className="font-extrabold">Saudi Arabia.</span>
+            <span className="font-extrabold">India.</span>
           </p>
         </div>
         <p className="text-base/6 font-normal text-zinc-500">

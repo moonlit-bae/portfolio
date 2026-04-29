@@ -7,7 +7,7 @@ import GitHubIcon from "../../assets/social/github.svg?react";
 export default function SocialMedia() {
   return (
     <div className="flex gap-6 text-black">
-      <SocialCard path="https://linkedin.com">
+      <SocialCard path="https://linkedin.com/in/zaid-qureshi-bb3020301">
         <LinkedinIcon className="group-hover:fill-primary-white h-5 w-5 md:h-10 md:w-10" />
       </SocialCard>
       <SocialCard path="https://github.com/moonlit-bae">

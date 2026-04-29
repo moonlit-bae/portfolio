@@ -15,7 +15,7 @@ export default function FormActions({ clicked }: { clicked: boolean }) {
         {clicked ? "Sending..." : "Get In Touch"}
       </button>
       <div className="flex gap-3 md:justify-evenly md:gap-5">
-        <SocialCard path="https://www.linkedin.com">
+        <SocialCard path="https://linkedin.com/in/zaid-qureshi-bb3020301">
           <LinkedinIcon className="group-hover:fill-primary-white h-5 w-5" />
         </SocialCard>
         <SocialCard path="https://drive.google.com/uc?export=download&id=1bkGTGMuugK95wQXmPQB4yz-bH2_aGC1n">
